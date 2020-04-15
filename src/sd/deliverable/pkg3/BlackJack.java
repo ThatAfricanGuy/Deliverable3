@@ -1,6 +1,6 @@
 /*
  * SD Deliverable 3 - Main Class
- * By: Matheus DaSilva, Henry Elder, Matthew Schepers
+ * By: Matheus DaSilva, Henry Elder, Matthew Schepers, Andy
  */
 package sd.deliverable.pkg3;
 
